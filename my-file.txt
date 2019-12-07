@@ -1,0 +1,1 @@
+I am also adding the same file in my-second-branch to test merging.
